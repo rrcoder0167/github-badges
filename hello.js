@@ -1,2 +1,2 @@
-const pair = "extraordinary1"
+const pair = "extraordinary123"
 console.log("Hellooo!")
